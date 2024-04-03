@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="enter_note">Введите заметку:</string>
+    <string name="type_priority">Выберите приоритет:</string>
+    <string name="low">Низкий</string>
+    <string name="medium">Средний</string>
+    <string name="high">Высокий</string>
+    <string name="save">Сохранить</string>
+    <string name="note_is_empty">Введите текст заметки</string>
+</resources>
